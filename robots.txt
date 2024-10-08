@@ -1,0 +1,9 @@
+User-agent: psbot
+Disallow: /
+
+User-agent: *
+Disallow: /servers/frontend/
+
+Crawl-delay: 10
+
+Sitemap: http://la-asociacion-de-matematicos-2.webnode.pe/sitemap.xml
